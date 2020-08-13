@@ -24,7 +24,8 @@ The impact was not significant enough to move Thomas High School to the bottom 5
 4. The modified analysis also impacted the district averages by grade for math and reading. For math, the overall average math score for 9th grade decreased by 0.24 points once the scores for Thomas High School were impacted. 
 ![MathSchoolGrade](Resources/MathSchoolGrade.png) ![MathSchoolGradeModified](Resources/MathSchoolGradeModified.png)
 
-For reading scores, the average 9th grade score decreased by .09 without the scores from Thomas High School.![ReadingSchoolGrade](Resources/ReadingSchoolGrade.png) ![ReadingSchoolGradeModified](Resources/ReadingSchoolGradeModified.png)
+For reading scores, the average 9th grade score decreased by .09 without the scores from Thomas High School.
+![ReadingSchoolGrade](Resources/ReadingSchoolGrade.png) ![ReadingSchoolGradeModified](Resources/ReadingSchoolGradeModified.png)
 
 5. In terms of school spending (budget divided by number of students) to reflect amount spent per student, Thomas High School was grouped in with schools spending $630-$644 per student. For this group of schools, removing the 9th grade scores from Thomas High School also impacted this group of results. The average math score decreased by .02, the average reading score increased by .01, the percentage of passing math scores decreased by 6.6 percentages, the percentage of passing reading scores decreased by 6.9 percentages, and the overall passing score decreased by 6.5 percentages. 
 ![SpendPerStudentSummary](Resources/SpendPerStudentSummary.png) ![SpendPerStudentSummaryModified](Resources/SpendPerStudentSummaryModified.png)
