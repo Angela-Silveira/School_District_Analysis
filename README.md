@@ -9,8 +9,8 @@ For the Challenge, Thomas High School's 9th grade reading and math scores were r
 
 1.  On a district level, the average math score decreased by 0.1 in the modified analysis while the average reading score remained the same. The percentage of passing scores for math, reading, and overall passing each decreased by one percentage.
 
-![DistrictSummary](Resources/DistrictSummary.png) 
-![DistrictSummaryModified](Resources/DistrictSummaryModified.png)
+     ![DistrictSummary](Resources/DistrictSummary.png) 
+     ![DistrictSummaryModified](Resources/DistrictSummaryModified.png)
 
 2.  Since the only scores impacted were for Thomas High School, this is the only school to have school summary results impacted. The removal of 9th grade scores results in Thomas High School's school summary include a 0.6 decrease in average math score, a 0.5 increase in average reading score, a 26 point decrease in math passing percentage, a 28 point decrease in reading passing percentage, and a 26 point decrease in overall passing percentage. 
 ![BySchoolSummary](Resources/BySchoolSummary.png) ![BySchoolSummaryModified](Resources/BySchoolSummaryModified.png)
