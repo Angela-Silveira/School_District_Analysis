@@ -3,9 +3,15 @@
 The following analysis was conducted in order to further understand trends in student reading and math scores within the school district. Scores were broken down based on grade level, school, school size, school budget (amount spent per student), and school type (district or charter). In the Challenge file, the math and reading scores for one school's ninth grade students were removed from the dataset and the same analyses were run again for comparison. 
 
 ## Results
-For the Challenge, Thomas High School's 9th grade reading and math scores were removed from the dataset. Through the following comparison, the first image will demonstrate the original results with all schools, all grades scores. The second image reflects the impacted results once those 9th grade scores were removed for Thomas High School. 
+For the Challenge, Thomas High School's 9th grade reading and math scores were removed from the dataset. 
+**Through the following comparison, the first image will demonstrate the original results with all schools, all grades scores.** 
+*The second image reflects the impacted results once those 9th grade scores were removed for Thomas High School.* 
+
 A - On a district level, the average math score decreased by 0.1 in the modified analysis while the average reading score remained the same. The percentage of passing scores for math, reading, and overall passing each decreased by one percentage.
-! [DistrictSummary](Resources/DistrictSummary.png) ![DistrictSummaryModified](Resources/DistrictSummaryModified.png)
+
+![DistrictSummary](Resources/DistrictSummary.png) 
+![DistrictSummaryModified](Resources/DistrictSummaryModified.png)
+
 B - Since the only scores impacted were for Thomas High School, this is the only school to have school summary results impacted. The removal of 9th grade scores results in Thomas High School's school summary include a 0.6 decrease in average math score, a 0.5 increase in average reading score, a 26 point decrease in math passing percentage, a 28 point decrease in reading passing percentage, and a 26 point decrease in overall passing percentage. 
 ![BySchoolSummary](Resources/BySchoolSummary.png) ![BySchoolSummaryModified](Resources/BySchoolSummaryModified.png)
 C - In the original analysis, Thomas High School ranked 2nd in the Top 5 performing schools based on overall passing percentage. Once the 9th grade scores were taken out of consideration, Thomas High School no longer ranks in the Top 5 performing schools. The impact was not significant enough to move Thomas High School to the bottom 5 performing schools. 
