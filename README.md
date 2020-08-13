@@ -3,7 +3,7 @@
 The following analysis was conducted in order to further understand trends in student reading and math scores within the school district. Scores were broken down based on grade level, school, school size, school budget (amount spent per student), and school type (district or charter). In the Challenge file, the math and reading scores for one school's ninth grade students were removed from the dataset and the same analyses were run again for comparison. 
 
 ## Results
-For the Challenge, Thomas High School's 9th grade reading and math scores were removed from the dataset. 
+For the Challenge, Thomas High School's 9th grade reading and math scores were removed from the dataset. While the DataFrame in the attached files include formated values that are easier to read (1 or 2 decimal places), some of the comparisons would not be visible at this level so the original calculations are included to illustrate the differences between the two analyses.
 **Through the following comparison, the first image will demonstrate the original results with all schools, all grades scores.** 
 *The second image reflects the impacted results once those 9th grade scores were removed for Thomas High School.* 
 
